@@ -22,7 +22,7 @@ repository               : "Draz777/draz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://www.helloimg.com/i/2025/04/17/6800aac44870c.jpeg"
   name             : "Draz"
   pronouns         : "she"# example: "she/her"  
   bio              : "physics student who..."
