@@ -74,6 +74,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  Bilibili         : 'https://space.bilibili.com/291278984?spm_id_from=333.1007.0.0'
+  Xiaohongshu      : 'https://www.xiaohongshu.com/user/profile/5c5f94e6000000001a024f5a'
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
